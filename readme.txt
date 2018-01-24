@@ -16,6 +16,8 @@ git reset --hard HEAD^
 
 git reflog
 
+git remote add origin http://
+
 git push origin master
 
 git checkout -b dev
