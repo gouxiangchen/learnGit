@@ -17,3 +17,13 @@ git reset --hard HEAD^
 git reflog
 
 git push origin master
+
+git checkout -b dev
+
+git branch
+
+git merge dev
+
+git brach -d dev
+
+
