@@ -15,3 +15,5 @@ git log
 git reset --hard HEAD^
 
 git reflog
+
+git push origin master
