@@ -28,4 +28,6 @@ git merge dev
 
 git brach -d dev
 
+ssh test
+
 
