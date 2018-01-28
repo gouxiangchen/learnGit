@@ -42,4 +42,7 @@ ubuntu 2 test
 
 4
 
+git config --global credential.helper store http 储存密码
+
+
 
